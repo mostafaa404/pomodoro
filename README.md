@@ -12,3 +12,7 @@ Pomodoro Timer - Download
 
 
 <img width="760" height="1206" alt="pomodoro-stats-1789856370179" src="https://github.com/user-attachments/assets/9630ca0a-57a0-417c-b91b-f64697e74a5c" />
+
+
+V 3.0.0
+<img width="516" height="427" alt="image" src="https://github.com/user-attachments/assets/af60252c-f31a-4930-b25e-3976f010e274" />
