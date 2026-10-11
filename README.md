@@ -16,4 +16,16 @@ Pomodoro Timer - Download
 
 ### v3.0.0 <br>
 
+### 🪟 Mini Widget Mode
+
+When you switch to **Mini Widget mode**, the window shrinks into a compact always-on-top widget, perfect for keeping focus while working on other tasks.
+
+Hovering over the mini widget reveals a **control bar** with the following actions:
+
+- ⏸ **Pause / Resume** — Instantly pause or resume your current session without switching back to the full window.
+- ⏹ **Stop / Exit Mini Mode** — Exit the mini widget and return to the normal window view.
+
+The bar auto-hides when not in use, keeping the widget clean and unobtrusive. The **status indicator** (a colored dot + session info) stays visible at all times so you always know what mode you're in.
+
+
 <img width="516" height="427" alt="image" src="https://github.com/user-attachments/assets/af60252c-f31a-4930-b25e-3976f010e274" />
