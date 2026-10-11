@@ -1,7 +1,7 @@
 # pomodoro
 Pomodoro Timer - Download
 
-
+<br>
 <img width="1121" height="755" alt="Screenshot 2026-09-20 003550" src="https://github.com/user-attachments/assets/f2b660b9-0a9f-42f9-b75c-79a161c9f747" />
 
 
@@ -14,5 +14,6 @@ Pomodoro Timer - Download
 <img width="760" height="1206" alt="pomodoro-stats-1789856370179" src="https://github.com/user-attachments/assets/9630ca0a-57a0-417c-b91b-f64697e74a5c" />
 
 
-V 3.0.0
+### v3.0.0 <br>
+
 <img width="516" height="427" alt="image" src="https://github.com/user-attachments/assets/af60252c-f31a-4930-b25e-3976f010e274" />
