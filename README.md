@@ -29,3 +29,16 @@ The bar auto-hides when not in use, keeping the widget clean and unobtrusive. Th
 
 
 <img width="516" height="427" alt="image" src="https://github.com/user-attachments/assets/af60252c-f31a-4930-b25e-3976f010e274" />
+
+
+---
+
+### 📊 Stats Page Improvements
+
+- **Week View** — Now shows the **last 7 days from today** instead of a fixed calendar week.
+- **Month View** — Trend chart split into **two rows** for wider, clearer bars.
+- **Today's Marker** — Red circle highlights the current day in the trend.
+- **Adaptive Format** — Bar values show full precision in Week/Day (`3.57h`) and compact format in Month (`3.5h`).
+- **Dynamic Labels** — The mini card switches between **"This Week"** and **"This Month"** based on the selected tab.
+- **Clean Transitions** — No leftover styles when switching between Day, Week, and Month.
+- **Better Readability** — Larger day numbers, clearer value labels, wider bars.
